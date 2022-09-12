@@ -6,7 +6,7 @@
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-mr&show_icons=true&theme=swift)
 
-### Tecnologias que estou aprendendo
+### Tecnologias que estou usando
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
